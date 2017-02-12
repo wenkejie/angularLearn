@@ -1,0 +1,20 @@
+body{
+	background-color: #eee;
+}
+.nav, .pagination, .carousel, .panel-title a {
+    cursor: pointer;
+}
+.gridStyle {
+    border: 1px solid rgb(212, 212, 212);
+    height: 300px
+}
+.loginForm{
+	width: 500px;
+	margin: 90px auto;padding: 20px 30px 50px;
+	background-color: #fff;
+	border: 1px solid #ccc;border-radius: 5px;
+}
+
+p.error{
+	color: red;
+}
